@@ -1,0 +1,1 @@
+puts 'Я внутри rubytestfolderfile...'

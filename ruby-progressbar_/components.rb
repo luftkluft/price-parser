@@ -1,0 +1,5 @@
+require_relative '../ruby-progressbar_/components/bar'
+require_relative '../ruby-progressbar_/components/percentage'
+require_relative '../ruby-progressbar_/components/rate'
+require_relative '../ruby-progressbar_/components/time'
+require_relative '../ruby-progressbar_/components/title'
